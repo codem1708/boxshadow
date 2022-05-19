@@ -1,0 +1,82 @@
+
+h1{
+text-align: center;
+    color: white;
+font-family:  Arial;
+padding: 50px 50px;
+background-color: rgb(49, 109, 49);
+
+
+}
+main{
+    text-align: center;
+    margin: 34px;
+}
+
+ main img{
+    border-radius: 50%;
+height: 360px;
+width: 360px;
+margin-left: auto;
+margin-right: auto;
+}
+h4{
+    border:2px solid rgb(26, 70, 26);
+    padding: 10px;
+    width: 70px;
+    margin-left: auto;
+margin-right: auto;
+
+}
+.netflix{
+    background-color: rgb(49, 109, 49);
+    border-color: green;
+    color: white;
+    padding: 5px 5px;
+    margin: 30px 50px;
+}
+.netflix:hover{
+    background-color: rgb(49, 109, 49);
+    
+    transition: 1s;
+    color:black;
+    box-shadow: 0 0 50px #39ff14;
+
+}
+
+.later{
+
+    background-color: rgb(245, 251, 245);
+    border-color: green;
+    color: rgb(6, 6, 6);
+    padding: 5px 5px;
+    margin: 30px 50px;
+}
+.later:hover{
+    background-color: rgb(84, 133, 84);
+    transition: 1s;
+    color: black;
+    box-shadow: 0 0 50px #39ff14;
+
+
+}
+footer
+{
+    text-align: center;
+    color: white;
+font-family:  Arial;
+padding: 50px 50px;
+background-color: rgb(40, 109, 40);
+
+}
+footer a{
+    color: white;
+    margin: 30px;
+    text-decoration-style: dashed;
+}
+footer a:hover{
+    background-color: lightgreen;
+    transition: 1s;
+    color: black;
+    box-shadow: 0 0 50px #39ff14;
+}
